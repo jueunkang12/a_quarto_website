@@ -1,0 +1,10 @@
+---
+title: "Welcome to Jueun's Website"
+---
+
+I am a third-year Bachelor of Information student at the University of Toronto.
+
+
+```{r}
+1 + 1
+```
