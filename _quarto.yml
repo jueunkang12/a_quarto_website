@@ -9,8 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Jueun K Resume.pdf
+      - href: "Jueun K Resume.pdf"
         text: Resume
+      - portfolio.qmd
 
 format:
   html:

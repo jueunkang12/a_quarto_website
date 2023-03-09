@@ -4,7 +4,5 @@ title: "Portfolio"
 
 Some of my data science work can be found here:
 
-Selective Abortions in India
-
-https://github.com/tayedzac/quality-and-quantity-of-girls
+[Selective Abortions in India](https://github.com/tayedzac/quality-and-quantity-of-girls)
 
