@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some of my data science work can be found here:\nSelective Abortions in India\nhttps://github.com/tayedzac/quality-and-quantity-of-girls"
   }
 ]
